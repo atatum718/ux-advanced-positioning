@@ -1,1 +1,19 @@
 /* Add your CSS Below */
+/* Add your CSS Below */
+.one-relative {
+  position: relative;
+  bottom: 15px;
+  left: 15px;
+}
+
+.two-absolute {
+  position: absolute;
+  left: 232px;
+  bottom: 147px;
+}
+
+.three-fixed {
+  position: fixed;
+  left: 1119px;
+  bottom: 50px;
+}
